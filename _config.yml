@@ -5,7 +5,7 @@ highlighter: pygments
 # Site settings
 title: "Yedhu Krishnan"
 description: > # this means to ignore newlines until "email:"
-   My thoughts, scraps and craps!
+   My thoughts and scraps!
 
 email: yedhukrishnan@yahoo.com
 #blog logo
@@ -17,7 +17,7 @@ name: 'Yedhu Krishnan'
 author: 'Yedhu Krishnan'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate: 5
 
 url: "http://yedhukrishnan.github.io" # the base hostname & protocol for your site
 baseurl: ""
